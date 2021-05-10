@@ -1,1 +1,2 @@
-# Sneaker_Site 
+# sneaker-site
+# sneaker-website
